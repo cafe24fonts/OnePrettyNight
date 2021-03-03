@@ -1,5 +1,6 @@
 # 카페24 고운밤
-![Preview](./oneprettynight-poster.png)  
+![Poster](./oneprettynight-poster.png)  
+![Preview](./oneprettynight-preview.png)
 "고운밤"은 펜글씨로 단정하게 써내려간 느낌을 담아 따뜻함과 편안함을 가진 것이 특징인 폰트입니다.   
 전자상거래 운영자를 위해 다양한 상업적 무료폰트를 제공하려고 시작된 프로젝트 중 하나로     
 한글 및 라틴 확장을 지원합니다.    
