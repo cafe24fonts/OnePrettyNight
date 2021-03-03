@@ -8,7 +8,7 @@ Designed and published by Cafe24 Corp.
 
 
 ## 샘플
-![Preview](images/oneprettynight-preview-v3.png)  
+![Preview](images/oneprettynight-preview-v4.png)  
 
 ## 라이선스
 이 폰트는 SIL OPEN FONT LICENSE(Version 1.1)에 따라 사용이 허가됩니다.   
