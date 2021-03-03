@@ -13,9 +13,8 @@
 
 ## 저자
 Designed and published by Cafe24 Corp.  
-[Cafe24 Corp.](https://fonts.cafe24.com) (fonts@cafe24corp.com) 
- 
-## CAFE24 corp.
+[Cafe24 Corp.](https://fonts.cafe24.com) (fonts@cafe24corp.com)  
+  
 "CAFE24"는 글로벌 전자상거래 플랫폼 기업입니다.  
 창의가 있는 사람이라면 누구나 국내를 넘어 전 세계 시장에서 온라인 비즈니스가 가능할 수 있도록 쇼핑몰 솔루션, 광고∙마케팅, 호스팅 인프라 등 다양한 서비스를 원스톱 (One-Stop)으로 제공하고 있습니다.   
 
