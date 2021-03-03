@@ -4,8 +4,6 @@
 특별히 한글 'ㅇ'의 획의 맺음과 'ㅁ'의 꺾임에 펜의 먹이 머무는 듯한 느낌을 주어 아날로그의 느낌을 살렸습니다.  
 영문에도 동일한 특징을 담아 한글에 담겨져 있는 한국의 정취를 영문에서도 그대로 느끼실 수 있습니다.  
 일반 스크립트 폰트에서 느낄 수 없는 고운밤만의 고요함과 부드러움으로 당신의 마음을 누군가에게 표현해보세요!  
-Designed and published by Cafe24 Corp.  
-
 
 ## 샘플
 ![Preview](images/oneprettynight-preview-v4.png)  
@@ -14,6 +12,7 @@ Designed and published by Cafe24 Corp.
 이 폰트는 SIL OPEN FONT LICENSE(Version 1.1)에 따라 사용이 허가됩니다.   
 
 ## 저자
+Designed and published by Cafe24 Corp.  
 [Cafe24 Corp.](https://fonts.cafe24.com) (fonts@cafe24corp.com) 
  
 ## CAFE24 corp.
