@@ -17,7 +17,6 @@ Designed and published by Cafe24 Corp.
 * [Latest release](https://github.com/cafe24fonts/oneprettynight/releases)  
 
 ## 저자
-[Title](link)
 [Cafe24 Corp.](https://fonts.cafe24.com) (fonts@cafe24corp.com) 
  
 ### CAFE24 corp.
