@@ -9,7 +9,7 @@ Express your feelings with the serenity and softness of “One Pretty Night” u
 
 
 ## Sample
-![Preview](images/oneprettynight-preview-v4.png)  
+![Preview](images/oneprettynight-preview-v5.png)  
 
 ## License
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
