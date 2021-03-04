@@ -19,3 +19,6 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
 Global E-commerce Platform Cafe24 provides IT solutions and business services including e-commerce solution, global marketing, and global logistics that are necessary for doing online business.  
 Cafe24 offers a One-Stop platform so that merchants can focus on creative projects to achieve further business growth in the global e-commerce market.  
+
+## Note
+This is the open source GitHub repository for submission to Google Fonts.
