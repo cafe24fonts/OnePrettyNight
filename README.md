@@ -1,4 +1,4 @@
-[[KOREAN]](./README-KR.md)
+[[Korean]](./README-KR.md)
 
 # One Pretty Night
 “One Pretty Night” is a multi-script typeface that supports both Latin and Hangul (Korean), characterized by a tender handwritten feel reminiscent of pen on paper.  
