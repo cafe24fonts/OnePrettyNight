@@ -8,7 +8,7 @@
 일반 스크립트 폰트에서 느낄 수 없는 One Pretty Night 만의 고요함과 부드러움으로 당신의 마음을 누군가에게 표현해보세요!  
 
 ## 샘플
-![Preview](images/oneprettynight-preview-v5.png)  
+![Preview](documentation/oneprettynight-preview-v5.png)  
 
 ## 라이선스
 이 폰트는 SIL OPEN FONT LICENSE(Version 1.1)에 따라 사용이 허가됩니다.   
